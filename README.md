@@ -3,7 +3,7 @@
 
 <br/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkssudgktb1)](https://solved.ac/dkssudgktb1/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=godnjs00)](https://solved.ac/godnjs00/)
 
 [백준 바로가기](https://www.acmicpc.net/)
 
