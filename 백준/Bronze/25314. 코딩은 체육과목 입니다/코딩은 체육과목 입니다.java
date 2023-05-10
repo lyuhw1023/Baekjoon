@@ -1,11 +1,14 @@
-import java.util.*;
+import java.io.*;
+
 public class Main {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
-        for (int i = 0; i < (n / 4); i++) {
-            System.out.print("long ");
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        int N = Integer.parseInt(br.readLine());
+        StringBuilder sb = new StringBuilder();
+        for (int i = 0; i < N / 4; i++) {
+            sb.append("long ");
         }
-        System.out.println("int");
+        sb.append("int");
+        System.out.println(sb);
     }
 }
