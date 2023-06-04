@@ -9,7 +9,7 @@ public class Main {
         int res3 = 0;
         if (n == 0) {
             System.out.println(0);
-        } else if (n == 1) {
+        } else if (n == 1 || n == 2) {
             System.out.println(1);
         } else {
             for (int i = 2; i <= n; i++) {
